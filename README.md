@@ -2,7 +2,7 @@
 Instagram Account Gen Using Email Web based
 
 
-![Instagram Account Gen Github](./image.png)
+![Instagram Account Gen Github](./image.jpg)
 
 
 pip install curl_cffi
